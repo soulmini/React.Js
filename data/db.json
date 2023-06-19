@@ -1,0 +1,46 @@
+{
+  "blogs": [
+    {
+      "title": "My Goals ",
+      "body": "I want to become a Software engineer in a product based company/HFT after completing my enginiring.",
+      "author": "Ayush Jaiswal",
+      "id": 1
+    },
+    {
+      "title": "Course Completition",
+      "body": "I completed my full modern react by mindluster.com .\n\nthank you",
+      "author": "Ayush Jaiswal",
+      "id": 2
+    },
+    {
+      "title": "hello",
+      "body": "snfn",
+      "author": "mario",
+      "id": 5
+    },
+    {
+      "title": "hello",
+      "body": "ejsbjf",
+      "author": "mario",
+      "id": 6
+    },
+    {
+      "title": "hello",
+      "body": "ejsbjf",
+      "author": "mario",
+      "id": 7
+    },
+    {
+      "title": "hello",
+      "body": "ejsbjf",
+      "author": "mario",
+      "id": 8
+    },
+    {
+      "title": "hello",
+      "body": "ejsbjf",
+      "author": "mario",
+      "id": 9
+    }
+  ]
+}
